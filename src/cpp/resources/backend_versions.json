@@ -42,8 +42,8 @@
         }
       },
       "lemonade-sdk/ds4-rocm": {
-        "b0001": {
-          "ds4-b0001-linux-rocm-gfx1151-x64.tar.gz": "sha256:e63b7c9428fd10de75b3f69164eccd564a8e7261c2f9087cd8bec2b4b19a8ad1"
+        "b0012": {
+          "ds4-b0012-linux-rocm-gfx1151-x64.tar.gz": "sha256:917d2b009aaa9f3e42e04ef94e19d93b73f922600c606105872ea6c37f0c2181"
         }
       },
       "ROCm/ggml-staging-automation": {
@@ -79,7 +79,7 @@
     "metal": "master-843-462d675"
   },
   "ds4": {
-    "rocm": "b0001"
+    "rocm": "b0012"
   },
   "therock": {
     "version": "7.14.0",
